@@ -55,7 +55,7 @@ if introvert_points > extrovert_points:
 	print("You are a introvert")
 elif extrovert_points > introvert_points:
 	print("You are a extrovert")
-elif
-	print("your a ambivert ")
+elif:
+	print("your a ambivert")
 
 
